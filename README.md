@@ -1,4 +1,4 @@
-# cab-service
+# Uber Like Cab Service
 This project is an Uber like Android app with php backend. It allows you to book the nearest available cab. Driver app is also present in the repo along with the server code.
 
 ## Prerequisites
@@ -7,7 +7,7 @@ This project is an Uber like Android app with php backend. It allows you to book
 3. OneSignal API key - https://documentation.onesignal.com/docs/accounts-and-keys
 
 ## STEP 1
-Clone my repo
+```git clone
 
 ## STEP 2
 1. Open the User App in Android Studio.
